@@ -1,4 +1,4 @@
-# Valuation-of-vulnerable-European-and-barrier-options-under-uncertain-differential-equations
+# Vulnerablity of options under UDEs
 We have provided all the Matlab codes used in this paper: "Parameter estimation of uncertain stock model using genetic algorithm optimized by oesidual method: evaluation of vulnerable and barrier european options".
 These codes include the following statements:
 1-Observed data in Vonovia and Squarespace company from Sep 11, 2023 to Oct 20, 2023;
